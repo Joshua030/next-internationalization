@@ -1,0 +1,10 @@
+{
+  "home_title": "Inicio",
+  "home_welcome": "¡Bienvenido! Esta es la página de inicio localizada.",
+  "home_try": "Prueba /about o /blog",
+  "about_title": "Acerca de",
+  "about_content": "Contenido de la página Acerca de por idioma.",
+  "blog_title": "Blog",
+  "blog_content": "Índice del blog por idioma.",
+  "switcher_label": "Idioma:"
+}

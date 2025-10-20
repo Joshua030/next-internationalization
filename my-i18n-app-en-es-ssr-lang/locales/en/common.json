@@ -1,0 +1,10 @@
+{
+  "home_title": "Home",
+  "home_welcome": "Welcome! This is the localized home page.",
+  "home_try": "Try /about or /blog",
+  "about_title": "About",
+  "about_content": "About page content per locale.",
+  "blog_title": "Blog",
+  "blog_content": "Blog index per locale.",
+  "language_label": "Language:"
+}
